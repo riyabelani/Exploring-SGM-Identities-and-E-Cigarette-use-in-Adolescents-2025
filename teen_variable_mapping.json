@@ -1,0 +1,102 @@
+{
+  "ever_used_e_cigarettes": [
+    {
+      "column": "TB20",
+      "label": "HEALTH PROFESSIONAL EVER GAVE ASTHMA MANAGEMENT PLAN"
+    },
+    {
+      "column": "TB5",
+      "label": "DOCTOR EVER TOLD HAS ASTHMA"
+    },
+    {
+      "column": "TC38",
+      "label": "EVER SMOKED CIGARETTES"
+    }
+  ],
+  "current_e-cigarette_smoker": [
+    {
+      "column": "INS",
+      "label": "CURRENTLY INSURED"
+    },
+    {
+      "column": "INS64",
+      "label": "TYPE OF CURRENT HEALTH COVERAGE SOURCE - UNDER 65"
+    },
+    {
+      "column": "ASTCUR",
+      "label": "CURRENT ASTHMA"
+    }
+  ],
+  "age_when_first_tried_e-cigarette_puf1yr_recode": [
+    {
+      "column": "MA7_P",
+      "label": "NAME OF HEALTH PLAN (PUF RECODE)"
+    },
+    {
+      "column": "PUF1Y_ID",
+      "label": "PUBLIC USE FILE ID - CHIS 1 YEAR DATAFILES"
+    },
+    {
+      "column": "RACEH2_S",
+      "label": "RACE - UCLA CHPR DEFINITION (PUF RACEHP2P RECODE)"
+    }
+  ],
+  "sexual_orientation": [
+    {
+      "column": "TA24",
+      "label": "SEXUAL ORIENTATION"
+    },
+    {
+      "column": "TD74_2",
+      "label": "REASON PERSON TARGETED FOR HATE INCIDENT WITNESSED: SEXUAL ORIENTATION"
+    }
+  ],
+  "self_reported_gender_of_adult": [
+    {
+      "column": "SRSEX_A",
+      "label": "SELF-REPORTED GENDER OF ADULT"
+    }
+  ],
+  "self_reported_gender": [
+    {
+      "column": "RBMIV2",
+      "label": "AGE AND GENDER SPECIFIC BMI (5 LEVEL CDC 2022 - EXTENDED BMI GROWTH CHART)"
+    },
+    {
+      "column": "SRSEX_A",
+      "label": "SELF-REPORTED GENDER OF ADULT"
+    },
+    {
+      "column": "TL37V2",
+      "label": "HOW PEOPLE AT SCHOOL DESCRIBE ME (GENDER EXPRESSION)"
+    }
+  ],
+  "psychological_distress_last_year": [
+    {
+      "column": "TC28BV2",
+      "label": "# OF GLASSES OF SWEETENED FRUIT DRINKS DRANK YESTERDAY"
+    },
+    {
+      "column": "DSTRS12",
+      "label": "LIKELY HAS HAD PSYCHOLOGICAL DISTRESS IN THE LAST YEAR"
+    },
+    {
+      "column": "DSTRS30",
+      "label": "LIKELY HAS PSYCHOLOGICAL DISTRESS PAST MONTH"
+    }
+  ],
+  "reason_targeted_hate_incident_witnessed_sexual_orientation": [
+    {
+      "column": "TA24",
+      "label": "SEXUAL ORIENTATION"
+    },
+    {
+      "column": "TD66",
+      "label": "EXPERIENCED A HATE INCIDENT IN PAST 12 MONTHS"
+    },
+    {
+      "column": "TD71",
+      "label": "WITNESSED A HATE INCIDENT IN PAST 12 MONTHS"
+    }
+  ]
+}
